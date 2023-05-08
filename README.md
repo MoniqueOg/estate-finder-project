@@ -31,3 +31,8 @@ To get started, simply clone the repository and install the required dependencie
 
 ## Conclusion
 Overall, the Real Estate Finder API provides users with a streamlined and intuitive way to find their perfect home, with powerful search and notification features that make the process both efficient and effective. 🎉
+
+## Author
+-  **Variable-Virgin**  aka-  [@MoniqueOg](https://www.linkedin.com/in/monique-o-7538b41b8/) 👩🏿‍💻
+
+I'm open to feedback and suggestions. Please reach out with any questions or comments.💬
