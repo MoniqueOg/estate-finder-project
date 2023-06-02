@@ -35,4 +35,4 @@ Overall, the Real Estate Finder API provides users with a streamlined and intuit
 ## Author
 -  **Variable-Virgin**  aka-  [@MoniqueOg](https://www.linkedin.com/in/monique-o-7538b41b8/) 👩🏿‍💻
 
-I'm open to feedback and suggestions. Please reach out with any questions or comments.💬
+<sub>I'm open to feedback and suggestions. Please reach out with any questions or comments.[💬](https://t.me/m28n8que)</sub>
